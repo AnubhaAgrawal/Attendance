@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ATTENDENCE</string>
+    <array name="sname">
+        <item>Software Lab</item>
+        <item>Automata</item>
+    </array>
+</resources>
